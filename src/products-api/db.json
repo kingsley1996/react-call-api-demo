@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ipad Air 4",
+      "price": "49996",
+      "status": false
+    }
+  ]
+}
